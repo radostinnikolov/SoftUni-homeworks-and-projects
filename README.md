@@ -1,1 +1,1 @@
-# SoftUni-homeworks-and-projects
+Some random homeworks and future projects.
